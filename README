@@ -1,0 +1,22 @@
+each director has a README,this file just a intrduction
+
+每个库都有README ,这个是简介
+
+wordsTool 处理字符串的库
+	包括 ：
+		get_words (filename,tag )     #从文件读取 ，readline 的细化版本，生成一个单词迭代器，对每一个单词进行处理
+
+		translator(frm='',to='',keep=None,delete='')   #非常好用的一个字符串处理函数，详情看 测试部分
+
+progressConsole console用的进度条
+	 类库
+	 有两种风格的进度条，一种类似 homebrew 下载的风格,一种是旋转显示进度条
+	 使用方法必须对 迭代器函数使用，
+	 待改进 
+	
+	
+		
+
+		
+
+		
