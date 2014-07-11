@@ -1,3 +1,26 @@
+
+
+青鸾之旅编写
+
+version python 2.7
+
+
+	无聊的时候的作品。。。o(╯□╰)o ，不过处理字符串的部分非常有用
+	希望大家，也多写点库吧，对了，偷懒没有写 
+	setup.py 不过细节不要在意了
+
+
+
+
+####### installl #########
+
+	下载后  , 其他库安装类似  wordsTool
+
+cp -a wordsTool  /Library/Python/2.7/site-packages/
+
+
+###########################
+
 each director has a README,this file just a intrduction
 
 每个库都有README ,这个是简介
