@@ -6,7 +6,7 @@ __all__ = [
 ]
 
 
-def get_words(file_name):
+def get_words(file_name,tag='r'):
 	"""
 		@write by Qingluan
 
@@ -14,7 +14,7 @@ def get_words(file_name):
 		just for reading 
 	"""
 	import re
-	for line in open(file_name):
+	for line in open(file_name,tag):
 		for word in re.findall(r"[\w'-]+",line):
 			yield word
 
