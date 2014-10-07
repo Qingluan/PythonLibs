@@ -1,7 +1,6 @@
 __all__ =[
-    'Observer',
+    'observer',
 ]
-
 
 
 #def Observer():
